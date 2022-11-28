@@ -6,8 +6,8 @@
 
 ## 代挂
 
-### <a href="http://nark.tyzm.vip/">自建京东签到小站</a>
-### <a href="http://89.208.245.205:6789/">备用链接</a>
+### <a href="http://49.234.52.151:5701/#/login">自建京东签到小站</a>
+### <a href="http://49.234.52.151:5701/#/login">备用链接</a>
 需要京东代挂京豆的可自行打开页面登录 无需重复登录
 
 ### 注意：代挂的请关闭小额免密登录,以免产生经济纠纷
@@ -24,9 +24,5 @@
 ## 访问量
 ![](https://profile-counter.glitch.me/ShuaiLeiLu/count.svg)
 
-## TG
-<a href="https://t.me/+hHXs_RBjJkYxOGNl">点击加入TG群</a>
 
-## QQ
-<img src="./utils/QQ.png" width="238" alt="二维码"/>
 
